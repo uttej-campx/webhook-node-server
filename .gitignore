@@ -1,0 +1,6 @@
+dist/
+local-store/
+logs/
+node_modules/
+
+.env*
